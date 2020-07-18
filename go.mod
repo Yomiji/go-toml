@@ -1,4 +1,4 @@
-module github.com/pelletier/go-toml
+module github.com/yomiji/go-toml
 
 go 1.12
 
